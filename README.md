@@ -1,7 +1,9 @@
  # Alias game
 The game where players have to explain different words to each other.
 
-Wireframe: will be soon
+Wireframe: https://jailseed.tech/figma 
+
+Deployed project: https://jailseed.tech/alias
 
 ### Main functions:
 1) Words set selection by topic (with shown examples of words from the set)
